@@ -5,7 +5,7 @@
 This game is composed of a Ticket record and an action play transition. 
 
 ## Code overview
-Structures:
+
 `mapping num_winners`: u8 => u8: A mapping to keep track of the number of winners in the lottery.
 
 `record Ticket`: Defines a record called `Ticket` with a single field owner of type address. 
