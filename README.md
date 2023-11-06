@@ -2,6 +2,7 @@
 
 ## Model representations
 `Lottery.aleo` program is a simple system for the operation of an Aleo blockchain platform, which is implemented on the Aleo blockchain platform. 
+
 This game is composed of a Ticket record and an action play transition. 
 
 ## Code overview
